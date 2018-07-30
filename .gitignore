@@ -1,3 +1,8 @@
 # ignore the data. It is too big to shuttle back-and-forth via GitHub.
 */nhi_hpx.dat.gz
 */nhi_hpx.dat
+*/nhi_hpx.fits
+*/nhi_hpx.fits.gz
+
+# ignore jupyter stuff (checkpoints)
+*/.ipynb_checkpoints
